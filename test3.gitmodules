@@ -1,0 +1,3 @@
+[submodule "VVateR/Assets/VRTK"]
+	path = VVateR/Assets/VRTK
+	url = https://github.com/ExtendRealityLtd/VRTK

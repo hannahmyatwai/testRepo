@@ -1,0 +1,18 @@
+/VVateR/[Ll]ibrary/
+/VVateR/[Tt]emp/
+/VVateR/[Oo]bj/
+/VVateR/[Bb]uild/
+/VVateR/[Bb]uilds/
+/VVateR/Assets/AssetStoreTools*
+
+# FMOD
+**/Metadata/Event/**
+VVateR/Assets/FMODStudioCache.asset
+VVateR/Assets/FMODStudioCache.asset.meta
+Assets/FMODStudioCache.asset
+Assets/FMODStudioCache.asset.meta
+**/.cache/**
+VVater/fmod.log
+VVateR/fmod_editor.log
+VVateR/ProjectSettings/DynamicsManager.asset
+VVateR/ProjectSettings/ProjectVersion.txt
